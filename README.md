@@ -1,6 +1,6 @@
-# Chapter 1: Hello, World!
+1: Hello, World!
 
-https://www.youtube.com/playlist?list=PLhOuww6rJJNP7UvTeF6_tQ1xcubAs9hvO
+
 
 Write a program to enthusiastically greet the world:
 
